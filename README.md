@@ -9,5 +9,5 @@
 
 <h2> My Socials </h2>
 
-<a href="https://t.me/darkphnx"><img src="https://1000logos.net/wp-content/uploads/2021/04/Telegram-logo.png" height="50" width="70"/></a>
+<a href="https://t.me/darkphnx"><img src="https://1000logos.net/wp-content/uploads/2021/04/Telegram-logo.png" height="50" width="75"/></a>
 <a href="mailto:dark.phnx12@gmail.com"> <img src= "https://user-images.githubusercontent.com/80503611/152215934-c33dd2d5-69e5-4b32-84c7-665350747a10.png" height="50" width="50" /></a>
