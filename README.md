@@ -1,8 +1,8 @@
 
-<img src= "https://pa1.narvii.com/5580/b633855907b63e32b17408d0bb0456a3730e3dd4_hq.gif" height="250" width="540" class="center"> </h2>
+<!--<img src= "https://pa1.narvii.com/5580/b633855907b63e32b17408d0bb0456a3730e3dd4_hq.gif" height="250" width="540" class="center"> </h2>-->
   
 
-<h3> Hi there! I am Dark Phoenix, an Anime Binge watcher and a noob trying to learn things.</h3>
+<h3> Hi there! I am Dark Phoenix,an Anime Binge watcher 🧑‍💻.</h3>
 
 
 ![Darkphnx github stats](https://github-readme-stats.vercel.app/api?username=drkphnx&bg_color=000000&show_icons=true&count_private=true&hide_border=true&text_color=ffffff&title_color=ffffff&icon_color=2698ff&include_all_commits=true) 
