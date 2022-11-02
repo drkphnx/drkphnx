@@ -1,11 +1,11 @@
 
-<img src= "https://user-images.githubusercontent.com/80503611/152211018-8e0e727a-bd3c-4f76-b599-be02c9b87968.gif" height="250" width="540" class="center"> </h2>
+<img src= "https://pa1.narvii.com/5580/b633855907b63e32b17408d0bb0456a3730e3dd4_hq.gif" height="250" width="540" class="center"> </h2>
   
 
 <h3> Hi there! I am Dark Phoenix, an Anime Binge watcher and a noob trying to learn things.</h3>
 
 
-![Darkphnx github stats](https://github-readme-stats.vercel.app/api?username=drkphnx&bg_color=000&show_icons=true&count_private=true&hide_border=true&text_color=df0000&title_color=ff0000&icon_color=ffffff&include_all_commits=true) 
+![Darkphnx github stats](https://github-readme-stats.vercel.app/api?username=drkphnx&bg_color=000000&show_icons=true&count_private=true&hide_border=true&text_color=ffffff&title_color=ffffff&icon_color=2698ff&include_all_commits=true) 
 
 <h2> My Socials </h2>
 
